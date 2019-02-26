@@ -23,6 +23,7 @@
     <ProjectGuid>{C7547C00-9D1E-4F7F-9656-F889FD05C2F5}</ProjectGuid>
     <RootNamespace>My2252줄세우기Topologicalsort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>BOJ_2252_줄세우기_Topological_sort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,6 +23,7 @@
     <ProjectGuid>{3E64E455-54B5-44D1-BDA8-EC93108D7761}</ProjectGuid>
     <RootNamespace>My4193수영대회결승전완탐구현</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>SW_4193_수영대회 결승전( 완탐 + 구현)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

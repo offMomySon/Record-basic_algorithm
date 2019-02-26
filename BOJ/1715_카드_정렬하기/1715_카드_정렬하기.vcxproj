@@ -23,6 +23,7 @@
     <ProjectGuid>{75320488-B2DB-407E-B99B-68A0944ADFB8}</ProjectGuid>
     <RootNamespace>My1715카드정렬하기</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>BOJ_1715_카드_정렬하기</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,6 +23,7 @@
     <ProjectGuid>{4D2FFD52-A4C3-4A1C-B8CD-3002ED4FA48B}</ProjectGuid>
     <RootNamespace>My1766문제집</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>BOJ_1766_문제집</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
