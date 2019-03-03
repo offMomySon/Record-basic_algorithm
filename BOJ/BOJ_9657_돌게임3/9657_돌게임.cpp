@@ -38,7 +38,9 @@ int win(int dol_num)
 	if (dol[dol_num] != -1)
 		return dol[dol_num];
 
-
+	//모든 수를 선택했을때
+	//모두 지는 수가 나온다면 
+	//현재에서 이길수 없다.
 	if (win(dol_num - 1) == 1 &&
 		win(dol_num - 3) == 1 &&
 		win(dol_num - 4) == 1)

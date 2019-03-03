@@ -3,33 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1927", "1927\1927.vcxproj", "{7385B76C-A07E-4F3B-A452-809AFFECFC0C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_1927_최소 힙", "1927\1927.vcxproj", "{7385B76C-A07E-4F3B-A452-809AFFECFC0C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11279", "11279\11279.vcxproj", "{C9E8BAA1-0263-4DE9-9127-88EEEBB554E0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_11279_최대 힙", "11279\11279.vcxproj", "{C9E8BAA1-0263-4DE9-9127-88EEEBB554E0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1766_문제집", "1766_문제집\1766_문제집.vcxproj", "{4D2FFD52-A4C3-4A1C-B8CD-3002ED4FA48B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_1766_문제집", "1766_문제집\1766_문제집.vcxproj", "{4D2FFD52-A4C3-4A1C-B8CD-3002ED4FA48B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2252_줄세우기_Topological_sort", "2252_줄세우기_Topological_sort\2252_줄세우기_Topological_sort.vcxproj", "{C7547C00-9D1E-4F7F-9656-F889FD05C2F5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_2252_줄세우기_Topological_sort", "2252_줄세우기_Topological_sort\2252_줄세우기_Topological_sort.vcxproj", "{C7547C00-9D1E-4F7F-9656-F889FD05C2F5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11286_절대값_힙", "11286_절대값_힙\11286_절대값_힙.vcxproj", "{ED652009-7FE5-4C66-B299-A2ABC1725517}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_11286_절대값_힙", "11286_절대값_힙\11286_절대값_힙.vcxproj", "{ED652009-7FE5-4C66-B299-A2ABC1725517}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1715_카드_정렬하기", "1715_카드_정렬하기\1715_카드_정렬하기.vcxproj", "{75320488-B2DB-407E-B99B-68A0944ADFB8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_1715_카드_정렬하기", "1715_카드_정렬하기\1715_카드_정렬하기.vcxproj", "{75320488-B2DB-407E-B99B-68A0944ADFB8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1655_가운데를 말해", "1655_가운데를 말해\1655_가운데를 말해.vcxproj", "{C79DA763-0DA6-44B7-A606-B308E10D3E0A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_1655_가운데를 말해", "1655_가운데를 말해\1655_가운데를 말해.vcxproj", "{C79DA763-0DA6-44B7-A606-B308E10D3E0A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1202_보석도둑", "1202_보석도둑\1202_보석도둑.vcxproj", "{E382B342-754B-410C-90A5-C06F2ACB79BC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_1202_보석도둑", "1202_보석도둑\1202_보석도둑.vcxproj", "{E382B342-754B-410C-90A5-C06F2ACB79BC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "programmers_완주하지 못한 선수", "programmers_완주하지 못한 선수\programmers_완주하지 못한 선수.vcxproj", "{A76E6C55-F93A-4C64-8DB4-73B23C98D842}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG_완주하지 못한 선수", "programmers_완주하지 못한 선수\programmers_완주하지 못한 선수.vcxproj", "{A76E6C55-F93A-4C64-8DB4-73B23C98D842}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4192_수영대회", "nonum_수영대회\nonum_수영대회.vcxproj", "{1B93787D-46DB-4BBE-9DD9-0E4480DC2585}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SW_4192_수영대회", "nonum_수영대회\nonum_수영대회.vcxproj", "{1B93787D-46DB-4BBE-9DD9-0E4480DC2585}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeBattle_52_동철이", "CodeBattle_52_동철이\CodeBattle_52_동철이.vcxproj", "{48B27F37-0C73-4E99-8AFF-55BBF160B865}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SW_6958_동철이", "CodeBattle_52_동철이\CodeBattle_52_동철이.vcxproj", "{48B27F37-0C73-4E99-8AFF-55BBF160B865}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code_Battle_52_이상한 나라의 덧셈게임", "Code_Battle_52_이상한 나라의 덧셈게임\Code_Battle_52_이상한 나라의 덧셈게임.vcxproj", "{B0FA133B-3901-4817-ACA1-41F4529AF829}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SW_6959_이상한 나라의 덧셈게임", "Code_Battle_52_이상한 나라의 덧셈게임\Code_Battle_52_이상한 나라의 덧셈게임.vcxproj", "{B0FA133B-3901-4817-ACA1-41F4529AF829}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_9657_돌게임3", "BOJ_9657_돌게임3\BOJ_9657_돌게임3.vcxproj", "{6A2CC9CE-224E-470B-9546-025C1E8EBCA6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4193_수영대회 결승전( 완탐 + 구현)", "4193_수영대회 결승전( 완탐 + 구현)\4193_수영대회 결승전( 완탐 + 구현).vcxproj", "{3E64E455-54B5-44D1-BDA8-EC93108D7761}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SW_4193_수영대회 결승전( 완탐 + 구현)", "4193_수영대회 결승전( 완탐 + 구현)\4193_수영대회 결승전( 완탐 + 구현).vcxproj", "{3E64E455-54B5-44D1-BDA8-EC93108D7761}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ_9658_돌 게임4", "BOJ_9658_돌 게임4\BOJ_9658_돌 게임4.vcxproj", "{6052EDBA-B596-44A8-8256-0651608D2706}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SW_7102. 준홍이의 카드놀이", "SW_7102. 준홍이의 카드놀이\SW_7102. 준홍이의 카드놀이.vcxproj", "{F82A85A4-52EA-4139-B7F1-9F6D967905FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +155,22 @@ Global
 		{3E64E455-54B5-44D1-BDA8-EC93108D7761}.Release|x64.Build.0 = Release|x64
 		{3E64E455-54B5-44D1-BDA8-EC93108D7761}.Release|x86.ActiveCfg = Release|Win32
 		{3E64E455-54B5-44D1-BDA8-EC93108D7761}.Release|x86.Build.0 = Release|Win32
+		{6052EDBA-B596-44A8-8256-0651608D2706}.Debug|x64.ActiveCfg = Debug|x64
+		{6052EDBA-B596-44A8-8256-0651608D2706}.Debug|x64.Build.0 = Debug|x64
+		{6052EDBA-B596-44A8-8256-0651608D2706}.Debug|x86.ActiveCfg = Debug|Win32
+		{6052EDBA-B596-44A8-8256-0651608D2706}.Debug|x86.Build.0 = Debug|Win32
+		{6052EDBA-B596-44A8-8256-0651608D2706}.Release|x64.ActiveCfg = Release|x64
+		{6052EDBA-B596-44A8-8256-0651608D2706}.Release|x64.Build.0 = Release|x64
+		{6052EDBA-B596-44A8-8256-0651608D2706}.Release|x86.ActiveCfg = Release|Win32
+		{6052EDBA-B596-44A8-8256-0651608D2706}.Release|x86.Build.0 = Release|Win32
+		{F82A85A4-52EA-4139-B7F1-9F6D967905FD}.Debug|x64.ActiveCfg = Debug|x64
+		{F82A85A4-52EA-4139-B7F1-9F6D967905FD}.Debug|x64.Build.0 = Debug|x64
+		{F82A85A4-52EA-4139-B7F1-9F6D967905FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F82A85A4-52EA-4139-B7F1-9F6D967905FD}.Debug|x86.Build.0 = Debug|Win32
+		{F82A85A4-52EA-4139-B7F1-9F6D967905FD}.Release|x64.ActiveCfg = Release|x64
+		{F82A85A4-52EA-4139-B7F1-9F6D967905FD}.Release|x64.Build.0 = Release|x64
+		{F82A85A4-52EA-4139-B7F1-9F6D967905FD}.Release|x86.ActiveCfg = Release|Win32
+		{F82A85A4-52EA-4139-B7F1-9F6D967905FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
